@@ -546,6 +546,16 @@ This skill implements these key context engineering principles:
 - Single-file edits
 - Quick lookups
 
+## Community Forks
+
+Extensions built by the community:
+
+| Fork | Author | Features |
+|------|--------|----------|
+| [multi-manus-planning](https://github.com/kmichels/multi-manus-planning) | [@kmichels](https://github.com/kmichels) | Multi-project support, separate planning/source paths, SessionStart git sync |
+
+*Built something? Open an issue to get listed!*
+
 ## Acknowledgments
 
 - **Manus AI** — For pioneering context engineering patterns
